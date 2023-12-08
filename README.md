@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoé Kolan</h1>
-<h3 align="center">A passionate junior Data Scientist from France</h3>
+<h3 align="center">junior Data Scientist from France</h3>
 
 - 👯 I just completed a full-time intensive Data Science Bootcamp [at Le Wagon](https://www.lewagon.com/data-science-course)
 
